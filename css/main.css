@@ -10,7 +10,7 @@
 /*	bottom: 0px;*/
 	z-index: 3;
 	/*height: 100%;*/
-/*	width: 80%;*/
+	width: 80%;
 }
 
 .sun {
@@ -107,7 +107,7 @@
     }
     100%{
         left: 120%;
-        top: 20%;
+        top: 10%;
     }
 }
 .birds2{
