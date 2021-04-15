@@ -7,10 +7,10 @@
 
 .castle{
 	position: absolute;
-	bottom: 0px;
+/*	bottom: 0px;*/
 	z-index: 3;
-	height: 100%;
-	width: 80%;
+	/*height: 100%;*/
+/*	width: 80%;*/
 }
 
 .sun {
